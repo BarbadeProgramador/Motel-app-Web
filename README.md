@@ -1,6 +1,4 @@
-
-
-## Project Motel
+### APP MOTEL - LARAVEL
 
 ## Sobre el Proyecto
 Aplicativo Freelace para la gestion de un Motel permitiendo llevar un control en la administracion de cada habitacion del establecimiento.
